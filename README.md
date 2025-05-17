@@ -11,7 +11,7 @@
 * #### Чтобы удалить партикл введите `/par del`
 
 # 📌 Установка:
-1. Скачайте плагин [blast_particle.py]()
+1. Скачайте плагин [blast_particle.py](https://github.com/Felarwont/Blast-Particle/releases/download/v1.0.0/blast_particle.py)
 2. Поместите в папку модов:
    - **Windows:** `AppData/Local/BombSquad/mods`
    - **Android:** `Android/data/net.froemling.bombsquad/files/mods`
