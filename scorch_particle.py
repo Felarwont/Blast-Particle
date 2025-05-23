@@ -48,7 +48,7 @@ class ScorchParticle:
         activity = _ba.get_foreground_host_activity()
         for player in activity.players:
             if player.getname(False, False) == player_name:
-                position = tuple(player.position)
+                position = player.position
                 return position
         return None
       
